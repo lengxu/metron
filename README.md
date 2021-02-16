@@ -16,6 +16,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 [![Build Status](https://travis-ci.org/apache/metron.svg?branch=master)](https://travis-ci.org/apache/metron)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flengxu%2Fmetron.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flengxu%2Fmetron?ref=badge_shield)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flengxu%2Fmetron.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flengxu%2Fmetron?ref=badge_large)
 
 # Apache Metron
 
